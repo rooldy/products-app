@@ -4,9 +4,9 @@ import HelloWorld from "./HelloWorld";
 const App=()=>(
 
     <div className="App">
-        <HelloWorld/>
-        <HelloWorld/>
-        <HelloWorld/>
+        <HelloWorld label="Rooldy"/>
+        <HelloWorld label = "Alphonse"/>
+        <HelloWorld label = "World"/>
    </div>
     
 )
